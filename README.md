@@ -46,6 +46,11 @@ The YOLOv5 model successfully detects objects from the given image. The detected
 
 I learned how to download YOLOv5 from GitHub, install the required packages and run object detection using a pre-trained model. 
 
-Before Pridiction.
+
+# Before Pridiction.
+
+<img width="612" height="459" alt="istockphoto-930694108-612x612" src="https://github.com/user-attachments/assets/f7780264-6e5e-40c7-ac37-ac06ae275f50" />
+
+# After Prtidiction
 
 <img width="612" height="459" alt="istockphoto-930694108-612x612" src="https://github.com/user-attachments/assets/f7780264-6e5e-40c7-ac37-ac06ae275f50" />
