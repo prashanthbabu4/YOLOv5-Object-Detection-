@@ -53,4 +53,4 @@ I learned how to download YOLOv5 from GitHub, install the required packages and 
 
 # After Prtidiction
 
-<img width="612" height="459" alt="istockphoto-930694108-612x612" src="https://github.com/user-attachments/assets/f7780264-6e5e-40c7-ac37-ac06ae275f50" />
+ <img width="612" height="459" alt="istockphoto-930694108-612x612 (1)" src="https://github.com/user-attachments/assets/23b02cef-21ce-443d-8475-fbea3ebc9494" />
